@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Gerald Johnson 👋
 
-<!--
-**gerald1124-code/gerald1124-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer specializing in backend development, cloud-native applications, AI integration, and Web3 technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- Python
+- FastAPI
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- Docker
+- PostgreSQL
+- MongoDB
+- Redis
+- GitHub Actions
+- AWS
+
+---
+
+## 💼 Current Focus
+
+- High-performance FastAPI APIs
+- AI-powered applications
+- Web3 infrastructure
+- Open-source developer tools
+
+---
+
+## 🛠 Featured Projects
+
+- MERN Portfolio
+- FastAPI AI RAG API
+- Blockchain Indexer API
+- Gitcoin Bounty Tracker
+- AI Backend API
+- Web3 Opportunity Tracker
+
+---
+
+## 📫 Connect With Me
+
+GitHub:
+https://github.com/gerald1124-code
+
+Email:
+geraldthejohnson@gmail.com
