@@ -1,6 +1,6 @@
 # Hi, I'm Gerald Evan Johnson 👋
 
-## Senior Software Engineer | Data & Full-Stack Engineer
+## Senior Software Engineer | AI & Data & Full-Stack Engineer
 
 I’m a versatile software engineer with **8+ years of experience** building full-stack applications, cloud solutions, ERP integrations, automation systems, reporting platforms, and production software architecture.
 
