@@ -1,84 +1,245 @@
 # Hi, I'm Gerald Evan Johnson 👋
 
-## Senior Software Engineer | AI & Data & Full-Stack Engineer
+# AI Engineer | LLM Evaluation | Python | FastAPI | Machine Learning | Prompt Engineering | Open Source
 
-I’m a versatile software engineer with **8+ years of experience** building full-stack applications, cloud solutions, ERP integrations, automation systems, reporting platforms, and production software architecture.
+I'm a software engineer focused on building AI-powered applications, backend services, automation systems, and developer tools using Python and modern cloud technologies.
 
-My experience spans **FinTech, cybersecurity, DevOps, transportation, enterprise systems, and AdTech**. I focus on scalable backend systems, practical automation, strong database design, and maintainable software.
+My primary interests include:
 
----
-
-## 🧰 Core Technologies
-
-### Languages
-Python • JavaScript • TypeScript • C# • PHP • T-SQL • PowerShell • VB/VBA • HTML/CSS
-
-### Frontend
-React • Next.js • Redux • Angular • React Native • Expo • Bootstrap • Material UI
-
-### Backend
-FastAPI • Django • Node.js • Express.js • .NET • Laravel
-
-### Databases
-SQL Server • PostgreSQL • MySQL • MariaDB • MongoDB • Redis • SQLite • Firebase • Firestore • Supabase
-
-### Cloud & DevOps
-AWS • Azure • Google Cloud Platform • Docker • Jenkins • GitHub Actions • GitLab CI/CD • IIS • Linux • SSH
-
-### Testing & Quality
-pytest • Jest • Postman • Flake8 • isort • Black
+- LLM Evaluation
+- AI Engineering
+- Prompt Engineering
+- FastAPI
+- Machine Learning Applications
+- AI Data Quality
+- Backend Development
+- Open Source Software
 
 ---
 
-## 💼 Professional Highlights
+# 🚀 About Me
 
-- Built a **Blazor Server inventory auditing platform** used on Android barcode scanners for more than **25,000 inventory items**, helping teams complete audits over **40% faster**.
-- Optimized complex SQL Server queries and stored procedures, reducing execution times from several minutes to **under one second**.
-- Created enterprise reports and dashboards with **Crystal Reports, Telerik, and SSRS** for daily operational use.
-- Developed Python and VBA automation for camera input, database comparison, filtering, and image-generation workflows.
-- Built and maintained **React Native** applications for warehouse and inventory operations.
-- Led a migration from Salesforce to a self-hosted CRM, reducing recurring software costs by **thousands of dollars per month**.
-- Automated Windows workstation provisioning with PowerShell and AutoHotKey, reducing setup time from about **2 hours to under 20 minutes**.
-- Built API integrations, data synchronization tools, and Git-based CI/CD pipelines.
-- Developed Python and JavaScript automation for advertising analytics and reporting workflows handling more than **$200,000 in monthly ad spend**.
+I enjoy designing scalable backend systems, REST APIs, automation workflows, and evaluation tools for AI applications.
 
----
+My recent work focuses on:
 
-## 🚀 Current Focus
+- LLM evaluation platforms
+- AI code analysis
+- FastAPI backend services
+- Prompt evaluation
+- Developer productivity tools
+- Data processing pipelines
+- Dockerized applications
+- GitHub Actions CI/CD
 
-- High-performance FastAPI services
-- AI-powered backend applications
-- Data engineering and automation
-- Web3 infrastructure
-- Cloud-native systems
-- Open-source developer tools
+I enjoy building practical software that is easy to maintain, well tested, and production ready.
 
 ---
 
-## 🎓 Education & Certification
+# 🧰 Core Technologies
 
-- **Bachelor of Science, Software Development** — Western Governors University
-- **AWS Certified Cloud Practitioner** — Valid through July 2028
+## Programming Languages
 
----
-
-## 📌 Featured Work
-
-- Full-Stack MERN Portfolio
-- FastAPI backend APIs
-- AI and RAG applications
-- Blockchain and Web3 tools
-- Automation and data-processing systems
-- Enterprise reporting and database optimization
+- Python
+- JavaScript
+- TypeScript
+- SQL
+- HTML
+- CSS
+- PowerShell
 
 ---
 
-## 📫 Connect With Me
+## AI & Machine Learning
 
-- **Email:** [geraldthejohnson@gmail.com](mailto:geraldthejohnson@gmail.com)
-- **LinkedIn:** [Gerald Johnson](https://www.linkedin.com/in/gerald-johnson-4779076b/)
-- **GitHub:** [gerald1124-code](https://github.com/gerald1124-code)
+- LLM Evaluation
+- Prompt Engineering
+- AI Workflow Automation
+- Data Validation
+- Dataset Processing
+- API Integrations
 
 ---
 
-> Building reliable software, improving business workflows, and turning complex systems into practical solutions.
+## Backend
+
+- FastAPI
+- Django
+- Flask
+- Node.js
+- Express.js
+- REST API Design
+- Pydantic
+
+---
+
+## Frontend
+
+- React
+- Next.js
+- Redux
+- React Native
+- Bootstrap
+- Material UI
+
+---
+
+## Databases
+
+- PostgreSQL
+- MySQL
+- SQL Server
+- SQLite
+- Redis
+- MongoDB
+
+---
+
+## DevOps & Cloud
+
+- Docker
+- GitHub Actions
+- Git
+- Linux
+- AWS
+- Azure
+- Google Cloud Platform
+
+---
+
+## Testing
+
+- Pytest
+- Postman
+- HTTPX
+- Flake8
+- Black
+- isort
+
+---
+
+# 📌 Featured AI Projects
+
+## AI Code Review Assistant
+
+Python-based static analysis service built with FastAPI.
+
+Features:
+
+- Python code quality analysis
+- Security rule detection
+- REST API
+- Docker support
+- GitHub Actions
+- Automated testing
+
+---
+
+## LLM Evaluation Platform
+
+FastAPI application for evaluating language model responses.
+
+Features:
+
+- Exact Match scoring
+- Token Overlap metrics
+- Length Similarity
+- Overall quality score
+- REST API
+- Docker
+- Pytest
+- GitHub Actions
+
+---
+
+## FastAPI Backend APIs
+
+Modern backend applications using:
+
+- FastAPI
+- Pydantic
+- Docker
+- REST APIs
+- Authentication
+- Testing
+
+---
+
+## Python Automation
+
+Automation projects including:
+
+- Data processing
+- API integrations
+- Reporting
+- Workflow automation
+- File processing
+
+---
+
+# 🔬 Current Focus
+
+Currently exploring and building projects involving:
+
+- AI Engineering
+- LLM Evaluation
+- Prompt Engineering
+- FastAPI
+- Python
+- Backend Architecture
+- AI Automation
+- Developer Tools
+- Open Source Software
+
+---
+
+# 💻 Open Source
+
+I enjoy building open-source projects related to:
+
+- AI
+- FastAPI
+- Python
+- Automation
+- Evaluation Systems
+- Developer Productivity
+- API Services
+
+---
+
+# 🎯 Interests
+
+- Artificial Intelligence
+- Large Language Models
+- Machine Learning Applications
+- Backend Development
+- Cloud Computing
+- API Design
+- Software Architecture
+- Open Source
+
+---
+
+# 📫 Connect
+
+**GitHub**
+
+https://github.com/gerald1124-code
+
+**LinkedIn**
+
+https://www.linkedin.com/in/gerald-johnson-4779076b/
+
+**Email**
+
+geraldthejohnson@gmail.com
+
+---
+
+# ⭐ Technologies
+
+Python • FastAPI • AI • LLM • Prompt Engineering • Machine Learning • Docker • GitHub Actions • REST API • PostgreSQL • Redis • React • Next.js • Linux • Pytest • Open Source
+
+---
+
+> Building practical AI applications, scalable backend systems, and open-source software with Python.
